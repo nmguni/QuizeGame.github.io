@@ -174,7 +174,7 @@ var questions = [
   },
   {
     multipleAnswers: false,
-    question: "What doe flexbox do?",
+    question: "What does flexbox do?",
     choice1: "Helps align content along the z-axis",
     choice2: " very useful layout tool",
     choice3: "Adds margin to elements",
